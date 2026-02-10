@@ -35,3 +35,5 @@ Sempre aprendendo, sempre construindo.
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Estudando+Inteligência+Artificial;Projetos+Reais;Sempre+Aprendendo&center=true&width=500&height=45">
 </p>
+
+![snake](https://raw.githubusercontent.com/Gustavo-Pantoja/Gustavo-Pantoja/output/github-contribution-grid-snake.svg)
