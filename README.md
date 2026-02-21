@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-🧠 Estudando Python e Inteligência Artificial  
+🧠 Python e Inteligência Artificial  
 📚 Alura  
 🌽 Criador do sistema Pamonharia  
 🚀 Em transição de carreira para TI  
